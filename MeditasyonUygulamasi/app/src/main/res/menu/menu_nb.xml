@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home_nb"
+        android:icon="@drawable/home_icon"
+        android:title="@string/Anasayfa" />
+    <item android:id="@+id/time_nb"
+        android:icon="@drawable/timer_icon"
+        android:title="@string/Zamanlayici" />
+    <item android:id="@+id/articles_nb"
+        android:icon="@drawable/article_icon"
+        android:title="@string/Makaleler"/>
+
+
+</menu>

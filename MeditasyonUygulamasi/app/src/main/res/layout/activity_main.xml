@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rlid"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fla"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:background="#DDE0F8"
+        android:layout_marginBottom="60dp">
+
+        <!-- ImageView ekle -->
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_gravity="center"
+            android:src="@drawable/giris"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_centerHorizontal="true" /> <!-- Resmi düzgün bir şekilde ortala ve üstte konumlandır -->
+
+        <!-- Hoş geldiniz yazısı -->
+        <TextView
+            android:id="@+id/welcome_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            android:text="ZENPEACE' E  HOŞ  GELDİNİZ"
+            android:textColor="#43257A"
+            android:textSize="24sp"
+            android:textStyle="bold" /> <!-- Yazıyı resmin üstte biraz yukarısına konumlandır ve yatayda ortala -->
+
+    </FrameLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bnb"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/lavender"
+        app:itemIconTint="#43257A"
+        app:itemTextColor="#43257A"
+        app:menu="@menu/menu_nb" />
+
+</RelativeLayout>

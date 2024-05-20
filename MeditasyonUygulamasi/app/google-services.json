@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239085952378",
+    "project_id": "meditasyonuygulamasi-321b8",
+    "storage_bucket": "meditasyonuygulamasi-321b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239085952378:android:2c64d467a3fe87bf4f0ac3",
+        "android_client_info": {
+          "package_name": "com.iremse.meditasyonuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLca_-JHuAJeTAycDPCKIuoIZVUsBqAjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

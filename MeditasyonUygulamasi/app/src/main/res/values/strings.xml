@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MeditasyonUygulamasi</string>
+    <string name="Başla">Start</string>
+    <string name="Zamanlayici">Timer</string>
+    <string name="Anasayfa">Home</string>
+    <string name="Makaleler">Articles</string>
+    <string name="Meditasyon">Meditation</string>
+    <string name="Muzik">Music</string>
+    <string name="Yoga">Yoga</string>
+    <string name="Nefes">Breathing Exercise</string>
+    <string name="ara">Search...</string>
+    <string name="yeniden_baslat">Restart</string>
+    <string name="meditasyon_nedir_baslik">What is Meditation?</string>
+    <string name="meditasyonun_faydalari_baslik">What are the Benefits of Meditation?</string>
+    <string name="meditasyona_baslanir_baslik">How to Start Meditating?</string>
+    <string name="meditasyon_ve_uyku_iliskisi_baslik">Meditation and Sleep Relationship</string>
+    <string name="meditasyon_ve_yaraticilik_iliskisi_baslik">Meditation and Creativity Relationship</string>
+    <string name="start_button_text">Start Timer</string>
+    <string name="timer_text">Time Remaining: 00:60</string>
+    <string name="meditasyonveuyku">Meditation is a powerful tool for improving sleep quality. Regular meditation practice calms the mind and induces deep relaxation in the body, making it easier to transition into sleep. It reduces levels of stress hormones and alleviates muscle tension, resulting in a deeper and more restful sleep experience. Additionally, meditation can be effective in combating insomnia and regulating sleep patterns. Even just a few minutes of meditation have been proven to enhance sleep quality. Therefore, incorporating meditation into your daily routine can be an important step for a better sleep experience.</string>
+    <string name="meditasyonnedir">Meditation is a mental exercise that helps calm the mind and gain control over your thoughts. This practice, used to cultivate mindfulness and a sense of tranquility, serves as a sanctuary in today\'s hectic pace of life. Engaging in regular meditation contributes to reducing stress, managing anxiety, enhancing sleep quality, and improving overall mental and emotional well-being.</string>
+    <string name="meditasyonabaslamarehberi">"To start meditating, choose a quiet and calm environment. Sit or lie down in a comfortable position. Focus your attention on your breath as you inhale and exhale. To calm your mind, notice your thoughts and gently bring your focus back to your breath. Begin with just a few minutes at first, gradually increasing the time. You can utilize guided meditation apps or resources. Be flexible and try different techniques to find what works best for you. Meditation requires patient and consistent practice, so be kind to yourself and remain open to the process.      "</string>
+    <string name="meditasyonveyaraticilik">Meditation is considered a powerful tool for triggering and enhancing creativity. Regular meditation practice calms the mind and increases focus, allowing creative thoughts to flow freely. By removing mental blocks, it helps facilitate the emergence of new ideas and perspectives. This often enhances creativity by breaking away from routine thought patterns and gaining new insights.  Research confirms that meditation enhances creativity. Mental silence and deep concentration facilitate the natural emergence of creative thoughts. The free flow of thoughts allows for the development of new and innovative ideas. Moreover, maintaining an open and relaxed state of mind during meditation supports the flow of creative processes and removes barriers.</string>
+    <string name="meditasyonunfaydalari">"Meditation is an effective tool for coping with the stress and challenges brought by modern life. Engaging in regular meditation reduces stress levels, calms the mind, and promotes emotional balance. It also enhances sleep, supports brain function, and instills a sense of overall peace and happiness. Even just a few minutes of meditation offer significant benefits for both body and mind health. Therefore, incorporating meditation into your daily routine can be a powerful step towards health and tranquility.      "</string>
+</resources>

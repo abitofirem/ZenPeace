@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#F2F2F7"
+    tools:context=".YogaActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="16dp">
+
+        <!-- Hareket 1 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif_1"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:src="@drawable/lateral_walk" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lateral Walk"
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"/>
+
+            <Button
+                android:id="@+id/hareket1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8591F6"
+                android:text="Başlat" />
+        </LinearLayout>
+
+        <!-- Hareket 2 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif_2"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:src="@drawable/squat" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Squat"
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"/>
+
+            <Button
+                android:id="@+id/hareket2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8591F6"
+                android:text="Başlat" />
+        </LinearLayout>
+
+        <!-- Hareket 3 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif_3"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:src="@drawable/abs_strech" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ABS Stretch"
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"/>
+
+            <Button
+                android:id="@+id/hareket3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8591F6"
+                android:text="Başlat" />
+        </LinearLayout>
+
+        <!-- Hareket 4 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif_4"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:src="@drawable/back_strech" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back Stretch"
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"/>
+
+            <Button
+                android:id="@+id/hareket4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8591F6"
+                android:text="Başlat" />
+        </LinearLayout>
+
+        <!-- Hareket 5 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif_5"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:src="@drawable/glute_bridge" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Glute Bridge"
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"/>
+
+            <Button
+                android:id="@+id/hareket5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8591F6"
+                android:text="Başlat" />
+        </LinearLayout>
+
+        <!-- Hareket 6 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif_6"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:src="@drawable/plank" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Plank"
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"/>
+
+            <Button
+                android:id="@+id/hareket6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#8591F6"
+                android:text="Başlat" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

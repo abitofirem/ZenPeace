@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeditasyonUygulamasi</string>
+    <string name="Başla">Başla</string>
+    <string name="Zamanlayici">Zamanlayıcı</string>
+    <string name="Anasayfa">Anasayfa</string>
+    <string name="Makaleler">Makaleler</string>
+    <string name="Meditasyon">Meditasyon</string>
+    <string name="Muzik">Müzik</string>
+    <string name="Yoga">Yoga</string>
+    <string name="ara">Ara...</string>
+    <string name="meditasyon_nedir_baslik">Meditasyon Nedir?</string>
+    <string name="meditasyonun_faydalari_baslik">Meditasyonun Faydaları Nelerdir?</string>
+    <string name="meditasyona_baslanir_baslik">Meditasyona Nasıl Başlanır?</string>
+    <string name="meditasyon_ve_uyku_iliskisi_baslik">Meditasyon ve Uyku İlişkisi</string>
+    <string name="meditasyon_ve_yaraticilik_iliskisi_baslik">Meditasyon ve Yaratıcılık İlişkisi</string>
+    <string name="Nefes">Nefes Egzersizi</string>
+    <string name="yeniden_baslat">Yeniden Başlat</string>
+    <string name="start_button_text">Süreyi Başlat</string>
+    <string name="timer_text">Kalan Süre: 00:60</string>
+    <string name="meditasyonabaslamarehberi">Meditasyona başlamak için sessiz ve sakin bir ortam seçin. Rahat bir pozisyonda oturun veya yatın. Nefes alıp verirken dikkatinizi nefese odaklayın. Zihninizi sakinleştirmek için düşüncelerinizi fark edin ve odak noktanıza geri dönün. Başlangıçta birkaç dakika ile başlayın ve zamanla süreyi artırın. Rehberli meditasyon uygulamalarından veya kaynaklarından yararlanabilirsiniz. Esnek olun ve farklı teknikleri deneyin, kendi rahatınıza en uygun olanı bulun. Meditasyon, sabırlı ve sürekli bir pratiği gerektirir, bu yüzden kendinize karşı nazik olun ve sürece açık olun.</string>
+    <string name="meditasyonveyaraticilik">Meditasyon, yaratıcılığı tetikleyen ve geliştiren güçlü bir araç olarak kabul edilir. Düzenli meditasyon pratiği, zihni sakinleştirir ve odaklanmayı artırır, böylece yaratıcı düşüncelerin serbestçe akmasına olanak tanır. Zihinsel blokları kaldırarak yeni fikirlerin ve perspektiflerin ortaya çıkmasına yardımcı olur. Bu, çoğu zaman rutin düşünce kalıplarının dışına çıkarak yaratıcılığı artırır ve yeni bakış açıları kazanmayı sağlar.Araştırmalar, meditasyonun yaratıcılığı artırdığını doğrulamaktadır. Zihinsel sessizlik ve derin konsantrasyon, yaratıcı düşüncelerin doğal olarak ortaya çıkmasını kolaylaştırır. Düşüncelerin serbestçe akması, yeni ve yenilikçi fikirlerin gelişimine olanak tanır. Ayrıca, meditasyon sırasında zihnin açık ve rahat bir durumda olması, yaratıcı süreçlerin akışını destekler ve engelleri kaldırır.</string>
+    <string name="meditasyonveuyku">"Meditasyon, uyku kalitesini iyileştiren güçlü bir araçtır. Düzenli meditasyon uygulaması, zihni sakinleştirir ve vücudu derin bir gevşeme durumuna sokarak uykuya geçişi kolaylaştırır. Stres hormonu seviyelerini azaltır ve kas gerginliğini hafifletir, böylece daha derin ve daha dinlendirici bir uyku deneyimi sağlar. Ayrıca, meditasyon, uykusuzlukla mücadelede etkili olabilir ve uyku düzenini düzenler. Sadece birkaç dakika bile harcansa, meditasyonun uyku kalitesini artırdığı kanıtlanmıştır. Bu nedenle, daha iyi bir uyku deneyimi için meditasyonu günlük rutininize dahil etmek önemli bir adım olabilir.         "</string>
+    <string name="meditasyonnedir">Meditasyon, zihninizi sakinleştirmeye ve düşüncelerinizi kontrol etmeye yardımcı olan bir zihinsel egzersizdir. Farkındalık ve huzur duygusu geliştirmek için kullanılan bu uygulama, günümüzün telaşlı yaşam temposunda adeta bir sığınak görevi görür. Düzenli meditasyon yapmak, stresi azaltmaya, kaygıyı yönetmeye, uyku kalitesini artırmaya ve genel zihinsel ve duygusal sağlığı geliştirmeye katkıda bulunur.</string>
+    <string name="meditasyonunfaydalari">"Meditasyon, modern yaşamın getirdiği stres ve zorluklarla başa çıkmak için etkili bir araçtır. Düzenli meditasyon yapmak, stres seviyelerini düşürür, zihni sakinleştirir ve duygusal dengeyi sağlar. Aynı zamanda, uykuyu iyileştirir, beyin fonksiyonlarını destekler ve genel bir huzur ve mutluluk hissi verir. Meditasyon, sadece birkaç dakika bile yapılsa, beden ve zihin sağlığı için önemli faydalar sunar. Bu nedenle, günlük rutininize meditasyonu dahil etmek, sağlık ve huzur için güçlü bir adım olabilir.     "</string>
+</resources>
